@@ -1,0 +1,9 @@
+flask
+numpy
+torch
+transformers
+spacy
+pandas
+dill
+google-generativeai
+NewsSentiment
